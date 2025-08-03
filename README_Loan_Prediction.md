@@ -1,6 +1,6 @@
 # Loan Prediction & Python Assessment Project (April 2025)
 
-This repository contains a Python assessment completed as part of the Big Data Analytics programme (Soweto_B, April 2025). The notebook demonstrates real-world applications of data analysis, data visualization, and machine learning using a loan dataset.
+This repository contains a Python assessment completed as part of the Big Data Analytics programme. The notebook demonstrates real-world applications of data analysis, data visualization, and machine learning using a loan dataset.
 
 ## ✅ Project Overview
 The project includes various Python exercises and a final predictive modeling task using Linear Regression. It walks through the full data science workflow from data cleaning to evaluation.
