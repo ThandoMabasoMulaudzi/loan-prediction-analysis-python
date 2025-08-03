@@ -47,7 +47,7 @@ loan-prediction-analysis-python/
 │
 ├── Thando_Mabaso_LoanPrediction.ipynb
 ├── README.md
-├── Loans_Data.xlsx     (if permitted)
+├── Loans_Data.xlsx     
 ```
 
 ## 📈 Learning Outcomes
@@ -55,9 +55,6 @@ loan-prediction-analysis-python/
 - Data preprocessing & feature selection
 - Visualizing trends and residuals
 - Evaluating model accuracy using statistical metrics
-
-## 📄 Dataset Note
-The file `Loans_Data.xlsx` is referenced for this assessment. If unavailable due to policy, replace it with your own financial or housing dataset to replicate the model.
 
 ---
 **Created by:** Thando Mpho Mabaso  
